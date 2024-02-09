@@ -1,0 +1,35 @@
+# Archivos de salida y caché de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Directorio de salida de Jupyter Notebooks
+*/.output/
+
+# Archivos generados automáticamente por Jupyter Notebooks
+*.ipynb_checkpoints
+*.ipynb_meta
+*.pyc
+
+# Directorio donde se almacenan los modelos entrenados
+models/
+
+
+# Archivos de configuración local (por ejemplo, si estás utilizando entornos virtuales)
+.env
+
+# Directorio de dependencias del proyecto (por ejemplo, venv, env, etc.)
+venv/
+env/
+
+# Archivos de caché y registros generados por librerías de machine learning (por ejemplo, scikit-learn)
+*.joblib
+*.pkl
+
+# Archivos de registro y caché de TensorFlow
+*.h5
+*.hdf5
+*.ckpt
+*.log
+
+# Directorio de datos de TensorFlow
+logs/
+
