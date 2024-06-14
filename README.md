@@ -5,5 +5,5 @@ If you're taking the course, please avoid copying and pasting the solutions; sol
 
 
 
-[Nombre del Archivo](Course 1 - NLP with Classification and Vector Spaces/1.1. Sentiment Analysis with LR/1.1. Preprocessing/1.1. Pre-processing.ipynb)
+[Nombre del Archivo](./Course 1 - NLP with Classification and Vector Spaces/1.1. Sentiment Analysis with LR/1.1. Preprocessing/1.1. Pre-processing.ipynb)
 
