@@ -12,9 +12,11 @@ If you're taking the course, please avoid copying and pasting the solutions; sol
 
 
 
-1. [Setiment Analysis with LR](#home)
-   1. [Pre-processing](#our-story)
-   2. [Visualizing Frequencies](#team)
+1. [NLP with classification and vector spaces](#)
+   1. [Sentiment Analysis with LR](#our-story)
+         1. [Pre-processing](#)
+         2. [Visualizing Frequencies](#)
+   3. [Visualizing Frequencies](#team)
       1. [Pre-processing](#our-story)
       2. [Visualizing Frequencies](#team)
 3. [About](#about)
