@@ -50,12 +50,25 @@ If you're taking the course, please avoid copying and pasting the solutions; sol
       
 1. [NLP with Sequence Models](Course%203%20-%20NLP%20with%20Sequence%20Models)
    1. [Neural Networks for Sentiment Analysis](Course%203%20-%20NLP%20with%20Sequence%20Models/1.%20Neural%20Networks%20for%20Sentiment%20Analysis)
-         1. [Trax](Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/1.1.%20Sentiment%20Analysis%20with%20LR/1.1.%20Preprocessing/1.1.%20Pre-processing.ipynb)
-         2. [Classes and subclasses](Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/1.1.%20Sentiment%20Analysis%20with%20LR/1.2.%20Visualizing%20frequencies/1.2.%20Visualizing%20frequencies.ipynb)
-         3. [Data Generators](Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/1.1.%20Sentiment%20Analysis%20with%20LR/1.3.%20Visualizing%20tweets%20and%20LR%20models/1.3.%20Visualizing%20tweets%20and%20LR%20models.ipynb)
-         4. [Sentiment Analysis](Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/1.1.%20Sentiment%20Analysis%20with%20LR/1.4.%20Assigmnent%20-%20Classification%20with%20LR/1.4.%20Assignment.ipynb)
-   2. [Sentimient Analysis with Naive Bayes](Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/1.2.%20Sentiment%20Analysis%20with%20Naive%20Bayes)
-      1. [Visualizing](Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/1.2.%20Sentiment%20Analysis%20with%20Naive%20Bayes/1.2.1.%20Visualizing/2.1.%20Visualizando%20Naive%20Bayes.ipynb)    
+	 1. [Trax](Course%203%20-%20NLP%20with%20Sequence%20Models/1.%20Neural%20Networks%20for%20Sentiment%20Analysis/1.1.%20Trax/1.1.%20Trax.ipynb)
+	 2. [Classes and subclasses](Course%203%20-%20NLP%20with%20Sequence%20Models/1.%20Neural%20Networks%20for%20Sentiment%20Analysis/1.2.%20Classes%20and%20subclasses/1.2.%20Classes%20and%20subclasses.ipynb)
+	 3. [Data Generators](Course%203%20-%20NLP%20with%20Sequence%20Models/1.%20Neural%20Networks%20for%20Sentiment%20Analysis/1.3.%20Data%20generators/1.3.%20Data%20generators.ipynb)
+	 4. [Sentiment Analysis](Course%203%20-%20NLP%20with%20Sequence%20Models/1.%20Neural%20Networks%20for%20Sentiment%20Analysis/1.4.%20Sentiment%20Analysis/1.4.%20Sentiment%20Analysis.ipynb)
+   2. [RNNs for Language Modelling](Course%203%20-%20NLP%20with%20Sequence%20Models/2.%20RNNs%20for%20language%20modelling/2.2.%20RNNs%20and%20GRUs/2.2.%20RNNs%20y%20GRUs.ipynb)
+      1. [Hidden State Activations](Course%203%20-%20NLP%20with%20Sequence%20Models/2.%20RNNs%20for%20language%20modelling/2.1.%20Hidden%20State%20Activations/2.1.%20Hidden%20State%20Activation.ipynb)    
+      2. [RNNs and GRUs](Course%203%20-%20NLP%20with%20Sequence%20Models/1.%20Neural%20Networks%20for%20Sentiment%20Analysis/1.1.%20Trax)
+      3. [Perplexity](Course%203%20-%20NLP%20with%20Sequence%20Models/2.%20RNNs%20for%20language%20modelling/2.3.%20Perplexity/2.3%20Perplexity.ipynb)
+      4. [GRUs](Course%203%20-%20NLP%20with%20Sequence%20Models/2.%20RNNs%20for%20language%20modelling/2.4.%20GRUs/2.4.%20GRU.ipynb)
+      5. [Deep n-grams](Course%203%20-%20NLP%20with%20Sequence%20Models/2.%20RNNs%20for%20language%20modelling/2.5.%20Deep%20n-grams/2.5.%20Deep%20n-grams.ipynb)
+   3. [LSTMs and NER](Course%203%20-%20NLP%20with%20Sequence%20Models/2.%20RNNs%20for%20language%20modelling/2.2.%20RNNs%20and%20GRUs/2.2.%20RNNs%20y%20GRUs.ipynb)
+      1. [Vanishing gradients](Course%203%20-%20NLP%20with%20Sequence%20Models/3.%20LSTMs%20and%20NER/3.1.%20Vanishing%20gradients/3.1.%20Vanishing_Gradients.ipynb)    
+      2. [NER](Course%203%20-%20NLP%20with%20Sequence%20Models/3.%20LSTMs%20and%20NER/3.2.%20NER/NER.ipynb)
+   4. [Siamese Networks](Course%203%20-%20NLP%20with%20Sequence%20Models/4.%20Siamese%20Networks)
+      1. [Siamese Models](Course%203%20-%20NLP%20with%20Sequence%20Models/4.%20Siamese%20Networks/4.1.%20Siamese%20Models/4.1.%20Siamese%20Models.ipynb)    
+      2. [Triplet Loss](Course%203%20-%20NLP%20with%20Sequence%20Models/4.%20Siamese%20Networks/4.2.%20Triplet%20Loss/4.2.%20Triplet%20Loss.ipynb)
+      3. [Evaluating a Siamese Model](Course%203%20-%20NLP%20with%20Sequence%20Models/4.%20Siamese%20Networks/4.3.%20Evaluate%20a%20siamse%20model/4.3.%20Evaluate%20a%20Siamese%20Model.ipynb)
+      4. [Question Duplicates](Course%203%20-%20NLP%20with%20Sequence%20Models/4.%20Siamese%20Networks/4.4.%20Question%20Duplicates/Question%20Duplicates.ipynb)
+
       
       
       
