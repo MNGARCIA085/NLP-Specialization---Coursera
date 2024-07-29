@@ -48,7 +48,7 @@ If you're taking the course, please avoid copying and pasting the solutions; sol
       5. [Assignment](Course%202%20-%20NLP%20with%20probabilistic%20models/4.%20Word%20Embeddings%20with%20Neural%20Networks/4.5.%20Assignment%20-%20CBOW/Assignment%20-%20CBOW.ipynb)
       
       
-1. [NLP with Sequence Models](Course%203%20-%20NLP%20with%20Sequence%20Models)
+3. [NLP with Sequence Models](Course%203%20-%20NLP%20with%20Sequence%20Models)
    1. [Neural Networks for Sentiment Analysis](Course%203%20-%20NLP%20with%20Sequence%20Models/1.%20Neural%20Networks%20for%20Sentiment%20Analysis)
 	 1. [Trax](Course%203%20-%20NLP%20with%20Sequence%20Models/1.%20Neural%20Networks%20for%20Sentiment%20Analysis/1.1.%20Trax/1.1.%20Trax.ipynb)
 	 2. [Classes and subclasses](Course%203%20-%20NLP%20with%20Sequence%20Models/1.%20Neural%20Networks%20for%20Sentiment%20Analysis/1.2.%20Classes%20and%20subclasses/1.2.%20Classes%20and%20subclasses.ipynb)
